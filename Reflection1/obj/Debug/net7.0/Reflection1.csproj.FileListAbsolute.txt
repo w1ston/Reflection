@@ -1,0 +1,15 @@
+D:\RiderProject\Reflection1\Reflection1\bin\Debug\net7.0\Reflection1.exe
+D:\RiderProject\Reflection1\Reflection1\bin\Debug\net7.0\Reflection1.deps.json
+D:\RiderProject\Reflection1\Reflection1\bin\Debug\net7.0\Reflection1.runtimeconfig.json
+D:\RiderProject\Reflection1\Reflection1\bin\Debug\net7.0\Reflection1.dll
+D:\RiderProject\Reflection1\Reflection1\bin\Debug\net7.0\Reflection1.pdb
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.csproj.AssemblyReference.cache
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.AssemblyInfoInputs.cache
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.AssemblyInfo.cs
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.csproj.CoreCompileInputs.cache
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.dll
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\refint\Reflection1.dll
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.pdb
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\Reflection1.genruntimeconfig.cache
+D:\RiderProject\Reflection1\Reflection1\obj\Debug\net7.0\ref\Reflection1.dll
